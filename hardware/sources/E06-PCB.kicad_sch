@@ -7025,7 +7025,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical"
+		(property "Footprint" "E06-PCB-Footprints:TRIM_3362P-1-103LF"
 			(at 175.26 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7774,7 +7774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical"
+		(property "Footprint" "E06-PCB-Footprints:TRIM_3362P-1-103LF"
 			(at 161.29 29.21 0)
 			(hide yes)
 			(show_name no)
